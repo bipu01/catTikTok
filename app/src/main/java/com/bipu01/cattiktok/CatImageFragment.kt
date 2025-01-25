@@ -1,4 +1,4 @@
-package com.yourname.cattiktok
+package com.bipu01.cattiktok
 
 import android.os.Bundle
 import android.view.LayoutInflater
